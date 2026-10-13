@@ -79,13 +79,34 @@ button:active{transform:scale(.99)}
  *,*::before,*::after{scroll-behavior:auto!important;transition:none!important;animation:none!important}
 }
 
+
+/* Refined lesson controls: compact, aligned, and less pill-heavy */
+.toolbar{align-items:flex-end;gap:18px}
+.controls{display:flex;align-items:center;justify-content:flex-end;gap:10px;min-width:0}
+#lesson-select{appearance:none;-webkit-appearance:none;width:min(100%,320px);min-width:0;min-height:48px;padding:0 42px 0 15px;border:1px solid #cfd7cc;border-radius:14px;background-color:var(--white);background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23245b48' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 14px center;font-size:.94rem;font-weight:650;box-shadow:0 1px 2px #24372c08}
+#shuffle,#review-due{min-height:48px;border-radius:14px;padding:0 15px;font-size:.94rem;font-weight:750;white-space:nowrap;box-shadow:0 1px 2px #24372c08}
+#shuffle{display:inline-flex;align-items:center;justify-content:center;gap:8px;background:#fffefa;border-color:#cfd7cc}
+#review-due{background:#edf2e9;color:var(--green);border-color:#d6e0d2}
+#review-due .due-count{display:inline-grid;place-items:center;min-width:23px;height:23px;padding:0 6px;border-radius:99px;background:var(--green);color:white;font-size:.78rem}
+@media(max-width:760px){
+ .toolbar{align-items:stretch;gap:12px}
+ .controls{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);width:100%;gap:8px}
+ #lesson-select{grid-column:1/-1;width:100%;max-width:none}
+ #shuffle,#review-due{width:100%;padding-inline:10px;font-size:.9rem}
+}
+@media(max-width:390px){
+ .controls{grid-template-columns:1fr}
+ #lesson-select{grid-column:auto}
+ #shuffle,#review-due{width:100%}
+}
+
 </style>
 </head>
 <body>
 <header><div class="brand">deutsch<span>daily.</span></div><div class="streak">🇩🇪 A2–B1 · 25 words a day</div></header>
 <main>
 <section class="hero"><div><div class="eyebrow">A little German, every day</div><h1>Small cards.<br>Big progress.</h1><p>Build the vocabulary you actually use: at work, in the city, while travelling, and in everyday conversations.</p></div><div class="daily-note"><div class="eyebrow">Your daily practice</div><strong>25 words. 10 minutes.</strong><p>Flip each card, say the example aloud, then test what stuck. New lessons are scheduled for 8:30 AM Berlin time.</p></div></section>
-<div class="toolbar"><div><div class="eyebrow">Today's lesson</div><div class="date-label" id="lesson-date">Loading lesson…</div></div><div class="controls"><select id="lesson-select" aria-label="Choose lesson"></select><button id="shuffle">Shuffle cards ↻</button></div></div>
+<div class="toolbar"><div><div class="eyebrow">Today's lesson</div><div class="date-label" id="lesson-date">Loading lesson…</div></div><div class="controls"><select id="lesson-select" aria-label="Choose lesson"></select><button id="review-due" type="button">Review due <span class="due-count" id="due-count">0</span></button><button id="shuffle" type="button"><span aria-hidden="true">⤨</span> Shuffle</button></div></div>
 <div class="progress-wrap"><div class="progress" id="progress"></div></div>
 <div class="layout"><section class="study">
 <button class="flashcard" id="flashcard" aria-label="Reveal flashcard"><div class="cardtop"><span id="card-number">CARD 01 / 25</span><span class="pill" id="category">VERB</span></div><div><div class="word" id="word">Loading…</div><div class="hint tap-hint">Think of the meaning, then tap to flip ↗</div><div class="answer" id="answer"><div class="meaning" id="meaning"></div><div class="grammar" id="grammar"></div><div class="example"><em id="example-de"></em><div id="example-en" class="muted"></div></div><div class="grammar" id="usage"></div></div></div><div class="cardtop"><span id="card-foot">A2–B1 VOCABULARY</span><span class="tap-hint">TAP TO REVEAL</span></div></button>
@@ -97,22 +118,27 @@ button:active{transform:scale(.99)}
 </main>
 <script>
 const $=id=>document.getElementById(id);
-let lessons=[],lessonIndex=0,cards=[],cardIndex=0,known=new Set(),quizQuestions=[],quizIndex=0,quizScore=0,quizAnswered=false;
+let lessons=[],lessonIndex=0,cards=[],cardIndex=0,known=new Set(),quizQuestions=[],quizIndex=0,quizScore=0,quizAnswered=false,reviewMode=false;
 const storageKey='deutsch-daily-progress-v1';
 let saved={};try{saved=JSON.parse(localStorage.getItem(storageKey)||'{}')}catch(e){}
 function save(){try{localStorage.setItem(storageKey,JSON.stringify(saved))}catch(e){}}
+function reviewKey(c){return (c._lessonDate||lessons[lessonIndex].date)+'|'+c.word}
+function reviewState(){if(!saved._reviewState)saved._reviewState={};return saved._reviewState}
+function dueCards(){const now=Date.now(),state=reviewState(),out=[];for(const l of lessons){for(const original of l.words){const key=l.date+'|'+original.word,st=state[key];if(!st||!st.dueAt||st.dueAt<=now)out.push({...original,_lessonDate:l.date,_lessonTitle:l.title||l.date})}}return out}
+function updateDueCount(){const n=dueCards().length;const el=$('due-count');if(el)el.textContent=n;const b=$('review-due');if(b)b.setAttribute('aria-label','Review '+n+' due cards')}
 function todayBerlin(){return new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Berlin',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date())}
 function escapeHtml(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
 async function init(){try{const r=await fetch('./data/lessons.json');if(!r.ok)throw Error('missing lesson data');const d=await r.json();lessons=(d.lessons||[]).sort((a,b)=>b.date.localeCompare(a.date));if(!lessons.length)throw Error('empty lesson data');renderLessonSelect();const i=lessons.findIndex(x=>x.date===todayBerlin());loadLesson(i>=0?i:0);renderArchive()}catch(e){$('lesson-date').textContent='Lesson data could not load';$('word').textContent='Please refresh in a moment';console.error(e)}}
 function renderLessonSelect(){const s=$('lesson-select');s.innerHTML=lessons.map((l,i)=>'<option value="'+i+'">'+escapeHtml(l.title||l.date)+'</option>').join('')}
 function renderArchive(){const el=$('archive-list');if(!el)return;el.innerHTML=lessons.map((l,i)=>'<button class="archive-item" data-lesson="'+i+'"><strong>'+escapeHtml(l.title||l.date)+'</strong><span class="muted">'+escapeHtml(l.date)+' · '+l.words.length+' cards</span></button>').join('');[...el.querySelectorAll('[data-lesson]')].forEach(b=>b.addEventListener('click',()=>{loadLesson(Number(b.dataset.lesson));window.scrollTo({top:0,behavior:'smooth'})}))}
-function loadLesson(i){lessonIndex=Math.max(0,Math.min(i,lessons.length-1));const l=lessons[lessonIndex];cards=[...l.words];cardIndex=0;known=new Set((saved[l.date]&&saved[l.date].known)||[]);$('lesson-select').value=lessonIndex;$('lesson-date').textContent=(l.title||l.date)+' · '+new Date(l.date+'T12:00:00').toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric'});renderCard();renderProgress();buildQuiz();renderArchive()}
+function loadLesson(i){reviewMode=false;lessonIndex=Math.max(0,Math.min(i,lessons.length-1));const l=lessons[lessonIndex];cards=[...l.words];cardIndex=0;known=new Set((saved[l.date]&&saved[l.date].known)||[]);$('lesson-select').value=lessonIndex;$('lesson-date').textContent=(l.title||l.date)+' · '+new Date(l.date+'T12:00:00').toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric'});renderCard();renderProgress();buildQuiz();renderArchive();updateDueCount()}
 function renderCard(){const c=cards[cardIndex];if(!c)return;$('flashcard').classList.remove('revealed');$('card-number').textContent='CARD '+String(cardIndex+1).padStart(2,'0')+' / '+cards.length;$('category').textContent=(c.type||'WORD').toUpperCase();$('word').textContent=c.word;$('meaning').textContent=c.meaning;$('grammar').textContent=c.grammar||'';$('example-de').textContent=c.example_de||'';$('example-en').textContent=c.example_en||'';$('usage').textContent=c.usage||'';$('card-foot').textContent=c.level||'A2–B1 VOCABULARY';$('prev').disabled=cardIndex===0;$('next').disabled=cardIndex===cards.length-1;renderProgress()}
-function renderProgress(){const l=lessons[lessonIndex];$('progress').style.width=((cardIndex+1)/cards.length*100)+'%';$('known-count').textContent=known.size+' / '+cards.length;$('known-progress').style.width=(known.size/cards.length*100)+'%';saved[l.date]={...(saved[l.date]||{}),known:[...known]};save();$('streak-count').textContent=calculateStreak()+' days'}
+function renderProgress(){const l=lessons[lessonIndex];$('progress').style.width=((cardIndex+1)/cards.length*100)+'%';$('known-count').textContent=known.size+' / '+cards.length;$('known-progress').style.width=(known.size/cards.length*100)+'%';if(!reviewMode){saved[l.date]={...(saved[l.date]||{}),known:[...known]}}save();$('streak-count').textContent=calculateStreak()+' days';updateDueCount()}
 function calculateStreak(){const dates=Object.keys(saved).filter(d=>(saved[d].known||[]).length>0).sort().reverse();if(!dates.length)return 0;let count=0,day=new Date(todayBerlin()+'T12:00:00');for(const d of dates){const expected=day.toLocaleDateString('en-CA',{timeZone:'Europe/Berlin'});if(d===expected){count++;day.setDate(day.getDate()-1)}else if(d<expected)break}return count}
-function markKnown(isKnown){const c=cards[cardIndex],id=c.word;if(isKnown)known.add(id);else known.delete(id);renderProgress();if(cardIndex<cards.length-1){cardIndex++;renderCard()}else $('flashcard').classList.add('revealed')}
+function markKnown(isKnown){const c=cards[cardIndex],id=c.word,key=reviewKey(c),state=reviewState(),previous=state[key]||{interval:0};let interval;if(isKnown){const steps=[1,3,7,14,30,60,90];interval=steps[Math.min(previous.intervalStep||0,steps.length-1)];const nextStep=Math.min((previous.intervalStep||0)+1,steps.length-1);state[key]={interval,intervalStep:nextStep,dueAt:Date.now()+interval*86400000,lastReviewed:Date.now()};known.add(id)}else{interval=0;state[key]={interval:0,intervalStep:0,dueAt:Date.now()+10*60*1000,lastReviewed:Date.now()};known.delete(id)}if(!reviewMode){saved[lessons[lessonIndex].date]={...(saved[lessons[lessonIndex].date]||{}),known:[...known]}}save();if(reviewMode){cards.splice(cardIndex,1);if(cards.length){if(cardIndex>=cards.length)cardIndex=cards.length-1;renderCard();renderProgress()}else{reviewMode=false;loadLesson(lessonIndex);$('lesson-date').textContent='Review complete — great work!';}}else{renderProgress();if(cardIndex<cards.length-1){cardIndex++;renderCard()}else $('flashcard').classList.add('revealed')}updateDueCount()}
 function buildQuiz(){const l=lessons[lessonIndex];quizQuestions=[...l.words].sort(()=>Math.random()-.5).slice(0,Math.min(5,l.words.length)).map(c=>{const wrong=l.words.filter(x=>x.word!==c.word).sort(()=>Math.random()-.5).slice(0,3).map(x=>x.meaning);const opts=[c.meaning,...wrong].sort(()=>Math.random()-.5);return {c,opts}});quizIndex=0;quizScore=0;renderQuiz()}
 function renderQuiz(){if(quizIndex>=quizQuestions.length){$('quiz-count').textContent='Quiz complete';$('quiz-question').textContent='You scored '+quizScore+' / '+quizQuestions.length+' 🎉';$('quiz-options').innerHTML='';$('quiz-feedback').textContent='Review any tricky cards, then try again.';$('quiz-next').textContent='Try again';return}quizAnswered=false;const q=quizQuestions[quizIndex];$('quiz-count').textContent='Question '+(quizIndex+1)+' of '+quizQuestions.length;$('quiz-question').textContent='What does “'+q.c.word+'” mean?';$('quiz-options').innerHTML=q.opts.map(o=>'<button data-answer="'+escapeHtml(o)+'">'+escapeHtml(o)+'</button>').join('');$('quiz-feedback').textContent='';$('quiz-next').textContent=quizIndex===quizQuestions.length-1?'See result':'Next question →';[...$('quiz-options').querySelectorAll('button')].forEach(b=>b.addEventListener('click',()=>{if(quizAnswered)return;quizAnswered=true;const ok=b.dataset.answer===q.c.meaning;if(ok)quizScore++;$('quiz-feedback').textContent=ok?'Correct! Sehr gut. ✓':'Not quite — '+q.c.meaning; b.style.borderColor=ok?'#245b48':'#c66';}))}
+$('review-due').addEventListener('click',()=>{const due=dueCards();if(!due.length){$('lesson-date').textContent='You’re all caught up — come back later.';return}reviewMode=true;cards=due;cardIndex=0;known=new Set();$('lesson-date').textContent='Spaced repetition · '+cards.length+' cards due';renderCard();renderProgress();window.scrollTo({top:0,behavior:'smooth'})});
 $('flashcard').addEventListener('click',()=>$('flashcard').classList.toggle('revealed'));$('prev').addEventListener('click',()=>{cardIndex--;renderCard()});$('next').addEventListener('click',()=>{cardIndex++;renderCard()});$('known').addEventListener('click',()=>markKnown(true));$('again').addEventListener('click',()=>markKnown(false));$('lesson-select').addEventListener('change',e=>loadLesson(Number(e.target.value)));$('shuffle').addEventListener('click',()=>{cards.sort(()=>Math.random()-.5);cardIndex=0;renderCard()});$('quiz-next').addEventListener('click',()=>{if(quizIndex>=quizQuestions.length){buildQuiz();return}if(!quizAnswered){$('quiz-feedback').textContent='Choose an answer first.';return}quizIndex++;renderQuiz()});init();
 </script>
 </body></html>
