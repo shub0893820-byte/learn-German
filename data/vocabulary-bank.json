@@ -1,0 +1,1184 @@
+{
+  "words": [
+    {
+      "word": "die Entscheidung",
+      "meaning": "decision",
+      "type": "noun",
+      "grammar": "Plural: Entscheidungen",
+      "example_de": "Ich muss heute eine Entscheidung treffen.",
+      "example_en": "I have to make a decision today.",
+      "usage": "treffen + Akkusativ",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich entscheiden",
+      "meaning": "to decide",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich habe mich für den Zug entschieden.",
+      "example_en": "I decided to take the train.",
+      "usage": "für + Akkusativ",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Erfahrung",
+      "meaning": "experience",
+      "type": "noun",
+      "grammar": "Plural: Erfahrungen",
+      "example_de": "Das war eine interessante Erfahrung.",
+      "example_en": "That was an interesting experience.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "erfahren",
+      "meaning": "to find out; experience",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Wann hast du davon erfahren?",
+      "example_en": "When did you find out about it?",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Umgebung",
+      "meaning": "surroundings; area",
+      "type": "noun",
+      "grammar": "Plural: Umgebungen",
+      "example_de": "In dieser Umgebung fühle ich mich wohl.",
+      "example_en": "I feel comfortable in this area.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich gewöhnen an",
+      "meaning": "to get used to",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich gewöhne mich an das Wetter.",
+      "example_en": "I am getting used to the weather.",
+      "usage": "an + Akkusativ",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Voraussetzung",
+      "meaning": "requirement; prerequisite",
+      "type": "noun",
+      "grammar": "Plural: Voraussetzungen",
+      "example_de": "Gute Deutschkenntnisse sind eine Voraussetzung.",
+      "example_en": "Good German skills are a requirement.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "zuverlässig",
+      "meaning": "reliable",
+      "type": "adjective",
+      "grammar": "",
+      "example_de": "Mein Kollege ist sehr zuverlässig.",
+      "example_en": "My colleague is very reliable.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Vereinbarung",
+      "meaning": "agreement; arrangement",
+      "type": "noun",
+      "grammar": "Plural: Vereinbarungen",
+      "example_de": "Wir haben eine Vereinbarung getroffen.",
+      "example_en": "We made an agreement.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "vereinbaren",
+      "meaning": "to arrange; agree",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Können wir einen Termin vereinbaren?",
+      "example_en": "Can we arrange an appointment?",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Gelegenheit",
+      "meaning": "opportunity",
+      "type": "noun",
+      "grammar": "Plural: Gelegenheiten",
+      "example_de": "Das ist eine gute Gelegenheit, Deutsch zu üben.",
+      "example_en": "This is a good opportunity to practise German.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich bewerben um",
+      "meaning": "to apply for",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Sie bewirbt sich um eine neue Stelle.",
+      "example_en": "She is applying for a new position.",
+      "usage": "um + Akkusativ",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Bewerbung",
+      "meaning": "application",
+      "type": "noun",
+      "grammar": "Plural: Bewerbungen",
+      "example_de": "Ich habe meine Bewerbung abgeschickt.",
+      "example_en": "I sent my application.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Fähigkeit",
+      "meaning": "ability; skill",
+      "type": "noun",
+      "grammar": "Plural: Fähigkeiten",
+      "example_de": "Kommunikation ist eine wichtige Fähigkeit.",
+      "example_en": "Communication is an important skill.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Herausforderung",
+      "meaning": "challenge",
+      "type": "noun",
+      "grammar": "Plural: Herausforderungen",
+      "example_de": "Die neue Aufgabe ist eine Herausforderung.",
+      "example_en": "The new task is a challenge.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "bewältigen",
+      "meaning": "to manage; overcome",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Wir können diese Situation gemeinsam bewältigen.",
+      "example_en": "We can manage this situation together.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Rückmeldung",
+      "meaning": "feedback; response",
+      "type": "noun",
+      "grammar": "Plural: Rückmeldungen",
+      "example_de": "Danke für deine schnelle Rückmeldung.",
+      "example_en": "Thanks for your quick response.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "Rücksicht nehmen auf",
+      "meaning": "to be considerate of",
+      "type": "expression",
+      "grammar": "",
+      "example_de": "Bitte nimm Rücksicht auf die Nachbarn.",
+      "example_en": "Please be considerate of the neighbours.",
+      "usage": "auf + Akkusativ",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Verantwortung",
+      "meaning": "responsibility",
+      "type": "noun",
+      "grammar": "Usually singular",
+      "example_de": "Sie übernimmt die Verantwortung für das Projekt.",
+      "example_en": "She takes responsibility for the project.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "verantwortlich",
+      "meaning": "responsible",
+      "type": "adjective",
+      "grammar": "",
+      "example_de": "Wer ist dafür verantwortlich?",
+      "example_en": "Who is responsible for that?",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Verspätung",
+      "meaning": "delay",
+      "type": "noun",
+      "grammar": "Plural: Verspätungen",
+      "example_de": "Wegen einer Verspätung kam ich zu spät.",
+      "example_en": "I arrived late because of a delay.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich verspäten",
+      "meaning": "to be delayed; late",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Der Bus hat sich verspätet.",
+      "example_en": "The bus was delayed.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "erledigen",
+      "meaning": "to take care of; complete",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich muss noch ein paar Dinge erledigen.",
+      "example_en": "I still have to take care of a few things.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Nachricht",
+      "meaning": "message; news",
+      "type": "noun",
+      "grammar": "Plural: Nachrichten",
+      "example_de": "Ich habe deine Nachricht gerade gelesen.",
+      "example_en": "I just read your message.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "Bescheid geben",
+      "meaning": "to let someone know",
+      "type": "expression",
+      "grammar": "",
+      "example_de": "Gib mir bitte Bescheid, wenn du da bist.",
+      "example_en": "Please let me know when you're there.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Absicht",
+      "meaning": "intention",
+      "type": "noun",
+      "grammar": "Plural: Absichten",
+      "example_de": "Das war nicht meine Absicht.",
+      "example_en": "That wasn't my intention.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Meinung",
+      "meaning": "opinion",
+      "type": "noun",
+      "grammar": "Plural: Meinungen",
+      "example_de": "Meiner Meinung nach ist das eine gute Idee.",
+      "example_en": "In my opinion, that's a good idea.",
+      "usage": "meiner Meinung nach",
+      "level": "A2–B1"
+    },
+    {
+      "word": "zustimmen",
+      "meaning": "to agree",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich stimme dir vollkommen zu.",
+      "example_en": "I completely agree with you.",
+      "usage": "Dativ",
+      "level": "A2–B1"
+    },
+    {
+      "word": "widersprechen",
+      "meaning": "to disagree; contradict",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich möchte dir nicht widersprechen.",
+      "example_en": "I don't want to contradict you.",
+      "usage": "Dativ",
+      "level": "A2–B1"
+    },
+    {
+      "word": "der Vorschlag",
+      "meaning": "suggestion; proposal",
+      "type": "noun",
+      "grammar": "Plural: Vorschläge",
+      "example_de": "Dein Vorschlag klingt gut.",
+      "example_en": "Your suggestion sounds good.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "vorschlagen",
+      "meaning": "to suggest",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich schlage vor, früher loszufahren.",
+      "example_en": "I suggest leaving earlier.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Möglichkeit",
+      "meaning": "possibility; option",
+      "type": "noun",
+      "grammar": "Plural: Möglichkeiten",
+      "example_de": "Gibt es eine andere Möglichkeit?",
+      "example_en": "Is there another option?",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "ermöglichen",
+      "meaning": "to make possible; enable",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Homeoffice ermöglicht mehr Flexibilität.",
+      "example_en": "Working from home enables more flexibility.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Veränderung",
+      "meaning": "change",
+      "type": "noun",
+      "grammar": "Plural: Veränderungen",
+      "example_de": "Die Veränderung war überraschend.",
+      "example_en": "The change was surprising.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich verändern",
+      "meaning": "to change",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Die Stadt hat sich stark verändert.",
+      "example_en": "The city has changed a lot.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Gewohnheit",
+      "meaning": "habit",
+      "type": "noun",
+      "grammar": "Plural: Gewohnheiten",
+      "example_de": "Lesen ist eine gute Gewohnheit.",
+      "example_en": "Reading is a good habit.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich bemühen",
+      "meaning": "to make an effort",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich bemühe mich, jeden Tag zu lernen.",
+      "example_en": "I make an effort to study every day.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Mühe",
+      "meaning": "effort; trouble",
+      "type": "noun",
+      "grammar": "Plural: Mühen",
+      "example_de": "Vielen Dank für deine Mühe.",
+      "example_en": "Thank you for your effort.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Unterstützung",
+      "meaning": "support",
+      "type": "noun",
+      "grammar": "Usually singular",
+      "example_de": "Danke für deine Unterstützung.",
+      "example_en": "Thanks for your support.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "unterstützen",
+      "meaning": "to support",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Meine Kollegen unterstützen mich.",
+      "example_en": "My colleagues support me.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "der Unterschied",
+      "meaning": "difference",
+      "type": "noun",
+      "grammar": "Plural: Unterschiede",
+      "example_de": "Was ist der Unterschied zwischen den beiden?",
+      "example_en": "What is the difference between the two?",
+      "usage": "zwischen + Dativ",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich unterscheiden",
+      "meaning": "to differ",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Die beiden Angebote unterscheiden sich deutlich.",
+      "example_en": "The two offers differ significantly.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "ähnlich",
+      "meaning": "similar",
+      "type": "adjective",
+      "grammar": "",
+      "example_de": "Wir haben einen ähnlichen Geschmack.",
+      "example_en": "We have similar tastes.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "im Vergleich zu",
+      "meaning": "compared with",
+      "type": "expression",
+      "grammar": "",
+      "example_de": "Im Vergleich zum letzten Jahr ist es günstiger.",
+      "example_en": "Compared with last year, it is cheaper.",
+      "usage": "zu + Dativ",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Ursache",
+      "meaning": "cause",
+      "type": "noun",
+      "grammar": "Plural: Ursachen",
+      "example_de": "Wir müssen die Ursache finden.",
+      "example_en": "We have to find the cause.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "verursachen",
+      "meaning": "to cause",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Der Sturm hat viele Probleme verursacht.",
+      "example_en": "The storm caused many problems.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Auswirkung",
+      "meaning": "effect; impact",
+      "type": "noun",
+      "grammar": "Plural: Auswirkungen",
+      "example_de": "Die Entscheidung hat große Auswirkungen.",
+      "example_en": "The decision has a big impact.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich auswirken auf",
+      "meaning": "to affect; impact",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Das wirkt sich auf meine Arbeit aus.",
+      "example_en": "That affects my work.",
+      "usage": "auf + Akkusativ",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Lösung",
+      "meaning": "solution",
+      "type": "noun",
+      "grammar": "Plural: Lösungen",
+      "example_de": "Wir suchen gemeinsam nach einer Lösung.",
+      "example_en": "We are looking for a solution together.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "lösen",
+      "meaning": "to solve",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Kannst du dieses Problem lösen?",
+      "example_en": "Can you solve this problem?",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Schwierigkeit",
+      "meaning": "difficulty",
+      "type": "noun",
+      "grammar": "Plural: Schwierigkeiten",
+      "example_de": "Am Anfang hatte ich einige Schwierigkeiten.",
+      "example_en": "At first, I had some difficulties.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "schwierig",
+      "meaning": "difficult",
+      "type": "adjective",
+      "grammar": "",
+      "example_de": "Die Aufgabe ist schwieriger als gedacht.",
+      "example_en": "The task is more difficult than expected.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Bedingung",
+      "meaning": "condition",
+      "type": "noun",
+      "grammar": "Plural: Bedingungen",
+      "example_de": "Unter diesen Bedingungen arbeite ich nicht.",
+      "example_en": "I won't work under these conditions.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Ausnahme",
+      "meaning": "exception",
+      "type": "noun",
+      "grammar": "Plural: Ausnahmen",
+      "example_de": "Heute mache ich eine Ausnahme.",
+      "example_en": "Today I'm making an exception.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "ausnahmsweise",
+      "meaning": "as an exception",
+      "type": "adverb",
+      "grammar": "",
+      "example_de": "Ausnahmsweise nehme ich heute ein Taxi.",
+      "example_en": "I'm taking a taxi today as an exception.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Erlaubnis",
+      "meaning": "permission",
+      "type": "noun",
+      "grammar": "Plural: Erlaubnisse",
+      "example_de": "Brauche ich dafür eine Erlaubnis?",
+      "example_en": "Do I need permission for that?",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "erlauben",
+      "meaning": "to allow; permit",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Parken ist hier nicht erlaubt.",
+      "example_en": "Parking is not allowed here.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "verboten",
+      "meaning": "forbidden; prohibited",
+      "type": "adjective",
+      "grammar": "",
+      "example_de": "Das Fotografieren ist hier verboten.",
+      "example_en": "Taking photos is prohibited here.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Regelung",
+      "meaning": "regulation; arrangement",
+      "type": "noun",
+      "grammar": "Plural: Regelungen",
+      "example_de": "Die neue Regelung gilt ab Montag.",
+      "example_en": "The new regulation applies from Monday.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "gelten",
+      "meaning": "to apply; be valid",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Das Ticket gilt den ganzen Tag.",
+      "example_en": "The ticket is valid all day.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "gültig",
+      "meaning": "valid",
+      "type": "adjective",
+      "grammar": "",
+      "example_de": "Ist mein Ausweis noch gültig?",
+      "example_en": "Is my ID still valid?",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Frist",
+      "meaning": "deadline; time limit",
+      "type": "noun",
+      "grammar": "Plural: Fristen",
+      "example_de": "Die Frist endet am Freitag.",
+      "example_en": "The deadline ends on Friday.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "fristgerecht",
+      "meaning": "within the deadline",
+      "type": "adjective/adverb",
+      "grammar": "",
+      "example_de": "Bitte reichen Sie die Unterlagen fristgerecht ein.",
+      "example_en": "Please submit the documents on time.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "einreichen",
+      "meaning": "to submit",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich muss den Antrag morgen einreichen.",
+      "example_en": "I have to submit the application tomorrow.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "der Antrag",
+      "meaning": "application; request",
+      "type": "noun",
+      "grammar": "Plural: Anträge",
+      "example_de": "Der Antrag wurde genehmigt.",
+      "example_en": "The application was approved.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "beantragen",
+      "meaning": "to apply for officially",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich möchte eine Aufenthaltserlaubnis beantragen.",
+      "example_en": "I would like to apply for a residence permit.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "genehmigen",
+      "meaning": "to approve",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Der Chef hat meinen Urlaub genehmigt.",
+      "example_en": "My manager approved my holiday.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "ablehnen",
+      "meaning": "to reject; decline",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Sie musste das Angebot ablehnen.",
+      "example_en": "She had to decline the offer.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Zusage",
+      "meaning": "acceptance; confirmation",
+      "type": "noun",
+      "grammar": "Plural: Zusagen",
+      "example_de": "Ich habe eine Zusage für die Wohnung bekommen.",
+      "example_en": "I received an acceptance for the apartment.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "zusagen",
+      "meaning": "to accept; confirm",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Kannst du bis morgen zusagen?",
+      "example_en": "Can you confirm by tomorrow?",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "absagen",
+      "meaning": "to cancel; decline",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich muss den Termin leider absagen.",
+      "example_en": "Unfortunately, I have to cancel the appointment.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Freizeit",
+      "meaning": "free time",
+      "type": "noun",
+      "grammar": "Usually singular",
+      "example_de": "In meiner Freizeit gehe ich gern wandern.",
+      "example_en": "In my free time, I like hiking.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich entspannen",
+      "meaning": "to relax",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Am Wochenende möchte ich mich entspannen.",
+      "example_en": "I want to relax at the weekend.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Erholung",
+      "meaning": "rest; recovery",
+      "type": "noun",
+      "grammar": "Usually singular",
+      "example_de": "Nach der Wanderung brauche ich etwas Erholung.",
+      "example_en": "I need some rest after the hike.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "anstrengend",
+      "meaning": "tiring; strenuous",
+      "type": "adjective",
+      "grammar": "",
+      "example_de": "Der Aufstieg war ziemlich anstrengend.",
+      "example_en": "The climb was quite strenuous.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich lohnen",
+      "meaning": "to be worth it",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Der Ausflug hat sich wirklich gelohnt.",
+      "example_en": "The trip was really worth it.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Aussicht",
+      "meaning": "view",
+      "type": "noun",
+      "grammar": "Plural: Aussichten",
+      "example_de": "Von hier hat man eine tolle Aussicht.",
+      "example_en": "You have a great view from here.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Strecke",
+      "meaning": "route; distance",
+      "type": "noun",
+      "grammar": "Plural: Strecken",
+      "example_de": "Die Strecke ist ungefähr zehn Kilometer lang.",
+      "example_en": "The route is about ten kilometres long.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Verbindung",
+      "meaning": "connection",
+      "type": "noun",
+      "grammar": "Plural: Verbindungen",
+      "example_de": "Welche Verbindung ist am schnellsten?",
+      "example_en": "Which connection is the fastest?",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "umsteigen",
+      "meaning": "to change trains; transfer",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "In Hamburg müssen wir umsteigen.",
+      "example_en": "We have to change trains in Hamburg.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Haltestelle",
+      "meaning": "stop; station",
+      "type": "noun",
+      "grammar": "Plural: Haltestellen",
+      "example_de": "Wir treffen uns an der nächsten Haltestelle.",
+      "example_en": "We'll meet at the next stop.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "verpassen",
+      "meaning": "to miss",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich habe den letzten Bus verpasst.",
+      "example_en": "I missed the last bus.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "rechtzeitig",
+      "meaning": "in time; on time",
+      "type": "adjective/adverb",
+      "grammar": "",
+      "example_de": "Wir müssen rechtzeitig losgehen.",
+      "example_en": "We need to leave in time.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich erkundigen nach",
+      "meaning": "to enquire about",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich erkundige mich nach den Öffnungszeiten.",
+      "example_en": "I'll enquire about the opening hours.",
+      "usage": "nach + Dativ",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Auskunft",
+      "meaning": "information",
+      "type": "noun",
+      "grammar": "Plural: Auskünfte",
+      "example_de": "Können Sie mir eine Auskunft geben?",
+      "example_en": "Can you give me some information?",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Anmeldung",
+      "meaning": "registration",
+      "type": "noun",
+      "grammar": "Plural: Anmeldungen",
+      "example_de": "Die Anmeldung dauert nur fünf Minuten.",
+      "example_en": "Registration takes only five minutes.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich anmelden",
+      "meaning": "to register; sign up",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich möchte mich für den Kurs anmelden.",
+      "example_en": "I would like to register for the course.",
+      "usage": "für + Akkusativ",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Teilnahme",
+      "meaning": "participation",
+      "type": "noun",
+      "grammar": "Usually singular",
+      "example_de": "Die Teilnahme am Kurs ist kostenlos.",
+      "example_en": "Participation in the course is free.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "teilnehmen an",
+      "meaning": "to participate in",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich nehme an einem Deutschkurs teil.",
+      "example_en": "I'm participating in a German course.",
+      "usage": "an + Dativ",
+      "level": "A2–B1"
+    },
+    {
+      "word": "aufmerksam",
+      "meaning": "attentive; thoughtful",
+      "type": "adjective",
+      "grammar": "",
+      "example_de": "Das war sehr aufmerksam von dir.",
+      "example_en": "That was very thoughtful of you.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "aufpassen auf",
+      "meaning": "to look after; pay attention to",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Kannst du kurz auf meinen Rucksack aufpassen?",
+      "example_en": "Can you watch my backpack for a moment?",
+      "usage": "auf + Akkusativ",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich verlassen auf",
+      "meaning": "to rely on",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich kann mich auf dich verlassen.",
+      "example_en": "I can rely on you.",
+      "usage": "auf + Akkusativ",
+      "level": "A2–B1"
+    },
+    {
+      "word": "vermutlich",
+      "meaning": "probably",
+      "type": "adverb",
+      "grammar": "",
+      "example_de": "Der Zug kommt vermutlich später.",
+      "example_en": "The train will probably arrive later.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "tatsächlich",
+      "meaning": "actually; in fact",
+      "type": "adverb",
+      "grammar": "",
+      "example_de": "Tatsächlich war es einfacher als gedacht.",
+      "example_en": "In fact, it was easier than expected.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "allerdings",
+      "meaning": "however",
+      "type": "adverb",
+      "grammar": "",
+      "example_de": "Die Wohnung ist schön, allerdings ziemlich teuer.",
+      "example_en": "The apartment is nice, however quite expensive.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "deshalb",
+      "meaning": "therefore; that's why",
+      "type": "adverb",
+      "grammar": "",
+      "example_de": "Ich bin müde, deshalb gehe ich früh ins Bett.",
+      "example_en": "I'm tired, so I'm going to bed early.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "obwohl",
+      "meaning": "although",
+      "type": "conjunction",
+      "grammar": "",
+      "example_de": "Obwohl es regnet, gehen wir spazieren.",
+      "example_en": "Although it's raining, we're going for a walk.",
+      "usage": "Verb at end",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sobald",
+      "meaning": "as soon as",
+      "type": "conjunction",
+      "grammar": "",
+      "example_de": "Ich rufe dich an, sobald ich angekommen bin.",
+      "example_en": "I'll call you as soon as I've arrived.",
+      "usage": "Verb at end",
+      "level": "A2–B1"
+    },
+    {
+      "word": "inzwischen",
+      "meaning": "meanwhile; by now",
+      "type": "adverb",
+      "grammar": "",
+      "example_de": "Inzwischen spreche ich etwas besser Deutsch.",
+      "example_en": "By now, I speak German a little better.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "bisher",
+      "meaning": "so far; until now",
+      "type": "adverb",
+      "grammar": "",
+      "example_de": "Bisher hat alles gut funktioniert.",
+      "example_en": "So far, everything has worked well.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Entwicklung",
+      "meaning": "development",
+      "type": "noun",
+      "grammar": "Plural: Entwicklungen",
+      "example_de": "Die Entwicklung geht in die richtige Richtung.",
+      "example_en": "The development is going in the right direction.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich entwickeln",
+      "meaning": "to develop",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Mein Deutsch entwickelt sich langsam weiter.",
+      "example_en": "My German is gradually improving.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Verbesserung",
+      "meaning": "improvement",
+      "type": "noun",
+      "grammar": "Plural: Verbesserungen",
+      "example_de": "Ich sehe eine deutliche Verbesserung.",
+      "example_en": "I see a clear improvement.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "verbessern",
+      "meaning": "to improve",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich möchte meine Aussprache verbessern.",
+      "example_en": "I want to improve my pronunciation.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "der Fortschritt",
+      "meaning": "progress",
+      "type": "noun",
+      "grammar": "Plural: Fortschritte",
+      "example_de": "Du machst große Fortschritte.",
+      "example_en": "You're making great progress.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Kenntnis",
+      "meaning": "knowledge; skill",
+      "type": "noun",
+      "grammar": "Plural: Kenntnisse",
+      "example_de": "Gute Englischkenntnisse sind hilfreich.",
+      "example_en": "Good English skills are helpful.",
+      "usage": "Often plural for language skills",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich konzentrieren auf",
+      "meaning": "to concentrate on",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich konzentriere mich auf die Aufgabe.",
+      "example_en": "I am concentrating on the task.",
+      "usage": "auf + Akkusativ",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Ablenkung",
+      "meaning": "distraction",
+      "type": "noun",
+      "grammar": "Plural: Ablenkungen",
+      "example_de": "Mein Handy ist oft eine Ablenkung.",
+      "example_en": "My phone is often a distraction.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Geduld",
+      "meaning": "patience",
+      "type": "noun",
+      "grammar": "Usually singular",
+      "example_de": "Beim Sprachenlernen braucht man Geduld.",
+      "example_en": "You need patience when learning languages.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "geduldig",
+      "meaning": "patient",
+      "type": "adjective",
+      "grammar": "",
+      "example_de": "Sei bitte ein bisschen geduldig.",
+      "example_en": "Please be a little patient.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Erwartung",
+      "meaning": "expectation",
+      "type": "noun",
+      "grammar": "Plural: Erwartungen",
+      "example_de": "Das Ergebnis hat meine Erwartungen übertroffen.",
+      "example_en": "The result exceeded my expectations.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "erwarten",
+      "meaning": "to expect",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Was erwartest du von dem Kurs?",
+      "example_en": "What do you expect from the course?",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Überraschung",
+      "meaning": "surprise",
+      "type": "noun",
+      "grammar": "Plural: Überraschungen",
+      "example_de": "Das Geschenk war eine schöne Überraschung.",
+      "example_en": "The gift was a nice surprise.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich freuen auf",
+      "meaning": "to look forward to",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich freue mich auf das Wochenende.",
+      "example_en": "I'm looking forward to the weekend.",
+      "usage": "auf + Akkusativ; future",
+      "level": "A2–B1"
+    },
+    {
+      "word": "sich freuen über",
+      "meaning": "to be pleased about",
+      "type": "verb",
+      "grammar": "",
+      "example_de": "Ich freue mich über deine Nachricht.",
+      "example_en": "I'm happy about your message.",
+      "usage": "über + Akkusativ; existing event",
+      "level": "A2–B1"
+    },
+    {
+      "word": "enttäuscht",
+      "meaning": "disappointed",
+      "type": "adjective",
+      "grammar": "",
+      "example_de": "Ich war von dem Ergebnis enttäuscht.",
+      "example_en": "I was disappointed by the result.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "die Zufriedenheit",
+      "meaning": "satisfaction",
+      "type": "noun",
+      "grammar": "Usually singular",
+      "example_de": "Die Zufriedenheit der Kunden ist wichtig.",
+      "example_en": "Customer satisfaction is important.",
+      "usage": "",
+      "level": "A2–B1"
+    },
+    {
+      "word": "zufrieden sein mit",
+      "meaning": "to be satisfied with",
+      "type": "expression",
+      "grammar": "",
+      "example_de": "Ich bin mit meiner Entscheidung zufrieden.",
+      "example_en": "I'm satisfied with my decision.",
+      "usage": "mit + Dativ",
+      "level": "A2–B1"
+    }
+  ]
+}
