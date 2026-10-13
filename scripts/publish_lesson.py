@@ -26,8 +26,8 @@ if any(item["date"] == today for item in data["lessons"]):
 
 origin = datetime.fromisoformat("2026-10-14").date()
 day_number = max(0, (now.date() - origin).days)
-start = (day_number * 25) % len(bank)
-chosen = [bank[(start + offset) % len(bank)] for offset in range(25)]
+start = (day_number * 10) % len(bank)
+chosen = [bank[(start + offset) % len(bank)] for offset in range(10)]
 data["lessons"].append({
     "date": today,
     "title": f"Day {day_number + 1} · Daily vocabulary",
