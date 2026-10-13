@@ -12,7 +12,9 @@
           "example_de": "Ich muss heute eine Entscheidung treffen.",
           "example_en": "I have to make a decision today.",
           "usage": "treffen + Akkusativ",
-          "level": "A2–B1"
+          "level": "A2–B1",
+          "article": "die",
+          "plural": "Entscheidungen"
         },
         {
           "word": "sich entscheiden",
@@ -32,7 +34,9 @@
           "example_de": "Das war eine interessante Erfahrung.",
           "example_en": "That was an interesting experience.",
           "usage": "",
-          "level": "A2–B1"
+          "level": "A2–B1",
+          "article": "die",
+          "plural": "Erfahrungen"
         },
         {
           "word": "erfahren",
@@ -52,7 +56,9 @@
           "example_de": "In dieser Umgebung fühle ich mich wohl.",
           "example_en": "I feel comfortable in this area.",
           "usage": "",
-          "level": "A2–B1"
+          "level": "A2–B1",
+          "article": "die",
+          "plural": "Umgebungen"
         },
         {
           "word": "sich gewöhnen an",
@@ -72,7 +78,9 @@
           "example_de": "Gute Deutschkenntnisse sind eine Voraussetzung.",
           "example_en": "Good German skills are a requirement.",
           "usage": "",
-          "level": "A2–B1"
+          "level": "A2–B1",
+          "article": "die",
+          "plural": "Voraussetzungen"
         },
         {
           "word": "zuverlässig",
@@ -92,7 +100,9 @@
           "example_de": "Wir haben eine Vereinbarung getroffen.",
           "example_en": "We made an agreement.",
           "usage": "",
-          "level": "A2–B1"
+          "level": "A2–B1",
+          "article": "die",
+          "plural": "Vereinbarungen"
         },
         {
           "word": "vereinbaren",
@@ -112,7 +122,9 @@
           "example_de": "Das ist eine gute Gelegenheit, Deutsch zu üben.",
           "example_en": "This is a good opportunity to practise German.",
           "usage": "",
-          "level": "A2–B1"
+          "level": "A2–B1",
+          "article": "die",
+          "plural": "Gelegenheiten"
         },
         {
           "word": "sich bewerben um",
@@ -132,7 +144,9 @@
           "example_de": "Ich habe meine Bewerbung abgeschickt.",
           "example_en": "I sent my application.",
           "usage": "",
-          "level": "A2–B1"
+          "level": "A2–B1",
+          "article": "die",
+          "plural": "Bewerbungen"
         },
         {
           "word": "die Fähigkeit",
@@ -142,7 +156,9 @@
           "example_de": "Kommunikation ist eine wichtige Fähigkeit.",
           "example_en": "Communication is an important skill.",
           "usage": "",
-          "level": "A2–B1"
+          "level": "A2–B1",
+          "article": "die",
+          "plural": "Fähigkeiten"
         },
         {
           "word": "die Herausforderung",
@@ -152,7 +168,9 @@
           "example_de": "Die neue Aufgabe ist eine Herausforderung.",
           "example_en": "The new task is a challenge.",
           "usage": "",
-          "level": "A2–B1"
+          "level": "A2–B1",
+          "article": "die",
+          "plural": "Herausforderungen"
         },
         {
           "word": "bewältigen",
@@ -172,7 +190,9 @@
           "example_de": "Danke für deine schnelle Rückmeldung.",
           "example_en": "Thanks for your quick response.",
           "usage": "",
-          "level": "A2–B1"
+          "level": "A2–B1",
+          "article": "die",
+          "plural": "Rückmeldungen"
         },
         {
           "word": "Rücksicht nehmen auf",
@@ -192,7 +212,8 @@
           "example_de": "Sie übernimmt die Verantwortung für das Projekt.",
           "example_en": "She takes responsibility for the project.",
           "usage": "",
-          "level": "A2–B1"
+          "level": "A2–B1",
+          "article": "die"
         },
         {
           "word": "verantwortlich",
@@ -212,7 +233,9 @@
           "example_de": "Wegen einer Verspätung kam ich zu spät.",
           "example_en": "I arrived late because of a delay.",
           "usage": "",
-          "level": "A2–B1"
+          "level": "A2–B1",
+          "article": "die",
+          "plural": "Verspätungen"
         },
         {
           "word": "sich verspäten",
@@ -242,7 +265,9 @@
           "example_de": "Ich habe deine Nachricht gerade gelesen.",
           "example_en": "I just read your message.",
           "usage": "",
-          "level": "A2–B1"
+          "level": "A2–B1",
+          "article": "die",
+          "plural": "Nachrichten"
         },
         {
           "word": "Bescheid geben",
