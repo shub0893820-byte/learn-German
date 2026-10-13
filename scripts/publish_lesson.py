@@ -8,9 +8,10 @@ DATA = os.path.join(ROOT, "data", "lessons.json")
 BANK = os.path.join(ROOT, "data", "vocabulary-bank.json")
 now = datetime.now(ZoneInfo("Europe/Berlin"))
 
-# Cron runs at both possible UTC offsets; publish only during Berlin's 08:00 hour.
-# A delayed scheduled run within that hour is still accepted.
-if now.hour != 8:
+# Scheduled runs use both UTC offsets for Berlin daylight-saving time.
+# Allow manual workflow_dispatch runs at any time so the workflow can be tested.
+event = os.environ.get("GITHUB_EVENT_NAME", "schedule")
+if event != "workflow_dispatch" and now.hour != 8:
     print(f"Not the 08:00 hour in Berlin ({now:%Y-%m-%d %H:%M}); skipping.")
     raise SystemExit(0)
 
