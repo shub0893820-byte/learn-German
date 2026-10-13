@@ -1,0 +1,19 @@
+{
+  "name": "Deutsch Daily — German Flashcards",
+  "short_name": "Deutsch Daily",
+  "description": "Daily German vocabulary, pronunciation and spaced repetition.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ee",
+  "theme_color": "#f6f4ee",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
