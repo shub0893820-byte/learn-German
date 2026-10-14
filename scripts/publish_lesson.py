@@ -11,10 +11,6 @@ now = datetime.now(ZoneInfo("Europe/Berlin"))
 # Scheduled runs use both UTC offsets for Berlin daylight-saving time.
 # Allow manual workflow_dispatch runs at any time so the workflow can be tested.
 event = os.environ.get("GITHUB_EVENT_NAME", "schedule")
-if event != "workflow_dispatch" and now.hour != 8:
-    print(f"Not the 08:00 hour in Berlin ({now:%Y-%m-%d %H:%M}); skipping.")
-    raise SystemExit(0)
-
 today = now.date().isoformat()
 with open(BANK, encoding="utf-8") as f:
     bank = json.load(f)["words"]
@@ -24,7 +20,7 @@ if any(item["date"] == today for item in data["lessons"]):
     print(f"Lesson for {today} already exists.")
     raise SystemExit(0)
 
-origin = datetime.fromisoformat("2026-10-14").date()
+origin = datetime.fromisoformat("2026-10-13").date()
 day_number = max(0, (now.date() - origin).days)
 start = (day_number * 10) % len(bank)
 chosen = [bank[(start + offset) % len(bank)] for offset in range(10)]
