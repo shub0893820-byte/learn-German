@@ -103,6 +103,29 @@ button:active{transform:scale(.99)}
 
 .audio-btn{display:inline-flex;align-items:center;gap:5px;border-radius:10px;padding:6px 10px;min-height:36px;font-size:.82rem;font-weight:750;background:#edf2e9;color:var(--green);border-color:#d6e0d2;white-space:nowrap}.word-audio{margin-top:14px}.audio-line{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}.grade{gap:6px}.grade button{padding-inline:12px}.quiz-tools{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}.quiz-tools select{border-radius:12px;min-height:42px}.typed-form{display:flex;gap:8px;margin:15px 0}.typed-form[hidden]{display:none}.typed-form input{min-width:0;flex:1;border:1px solid var(--line);border-radius:12px;padding:12px;font:inherit;background:#fffefa;color:var(--ink)}.conversation{margin-top:30px}.conversation h2{margin:.3rem 0}.conversation-lines{display:grid;gap:10px;margin:18px 0}.dialogue-line{background:#f2f3ec;border-radius:14px;padding:13px 15px}.dialogue-de{display:flex;align-items:center;gap:8px;flex-wrap:wrap}.dialogue-de .audio-btn{margin-left:auto}.dialogue-en{margin:8px 0 0 25px}.install-button{position:fixed;right:16px;bottom:16px;z-index:5;box-shadow:0 5px 20px #24372c20}.install-button[hidden]{display:none}@media(max-width:760px){.grade{display:grid;grid-template-columns:1fr 1fr}.grade button{width:100%;padding-inline:8px}.quiz-tools{align-items:stretch}.quiz-tools select{width:100%}.typed-form{flex-direction:column}.typed-form button{width:100%}.audio-line{align-items:flex-start}}
 
+
+/* Clear, thumb-friendly spaced-repetition controls */
+.navrow{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.navrow>#prev,.navrow>#next{min-height:48px;border-radius:14px;padding:12px 18px;font-weight:700;border:1px solid #cfd7cc;background:#fffefa;box-shadow:0 2px 0 #dce1d7}
+.navrow>#prev{margin-right:auto}
+.navrow>#next{margin-left:auto}
+.grade{display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap}
+.grade button{min-height:48px;min-width:88px;padding:11px 16px;border-width:2px;border-radius:14px;font-size:.96rem;font-weight:800;box-shadow:0 3px 0 #dce1d7;transition:transform .12s,box-shadow .12s,background .12s}
+.grade button:active{transform:translateY(2px);box-shadow:0 1px 0 #dce1d7}
+#again{background:#fff0ed;border-color:#e7b5ac;color:#8d3024}
+#hard{background:#fff5dc;border-color:#e7ce8c;color:#755313}
+#known{background:#e5f3e8;border-color:#a8cbb0;color:#1d5b36}
+#easy{background:#eaf2ff;border-color:#b5cbea;color:#234f84}
+#known.primary{background:#245b48;border-color:#245b48;color:#fff;box-shadow:0 3px 0 #163e30}
+#known.primary:active{box-shadow:0 1px 0 #163e30}
+@media(max-width:760px){
+ .navrow{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:10px}
+ .navrow>#prev{grid-column:1;grid-row:1;margin:0}
+ .navrow>#next{grid-column:2;grid-row:1;margin:0}
+ .grade{grid-column:1/-1;grid-row:2;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;width:100%}
+ .grade button{width:100%;min-width:0;min-height:54px;font-size:1rem}
+}
+
 </style>
 </head>
 <body>
