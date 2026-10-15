@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-10-15",
+      "title": "Day 3 · Daily vocabulary",
+      "words": [
+        {
+          "word": "die Verspätung",
+          "meaning": "delay",
+          "type": "noun",
+          "grammar": "Plural: Verspätungen",
+          "example_de": "Wegen einer Verspätung kam ich zu spät.",
+          "example_en": "I arrived late because of a delay.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich verspäten",
+          "meaning": "to be delayed; late",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Der Bus hat sich verspätet.",
+          "example_en": "The bus was delayed.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "erledigen",
+          "meaning": "to take care of; complete",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich muss noch ein paar Dinge erledigen.",
+          "example_en": "I still have to take care of a few things.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Nachricht",
+          "meaning": "message; news",
+          "type": "noun",
+          "grammar": "Plural: Nachrichten",
+          "example_de": "Ich habe deine Nachricht gerade gelesen.",
+          "example_en": "I just read your message.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "Bescheid geben",
+          "meaning": "to let someone know",
+          "type": "expression",
+          "grammar": "",
+          "example_de": "Gib mir bitte Bescheid, wenn du da bist.",
+          "example_en": "Please let me know when you're there.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Absicht",
+          "meaning": "intention",
+          "type": "noun",
+          "grammar": "Plural: Absichten",
+          "example_de": "Das war nicht meine Absicht.",
+          "example_en": "That wasn't my intention.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Meinung",
+          "meaning": "opinion",
+          "type": "noun",
+          "grammar": "Plural: Meinungen",
+          "example_de": "Meiner Meinung nach ist das eine gute Idee.",
+          "example_en": "In my opinion, that's a good idea.",
+          "usage": "meiner Meinung nach",
+          "level": "A2–B1"
+        },
+        {
+          "word": "zustimmen",
+          "meaning": "to agree",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich stimme dir vollkommen zu.",
+          "example_en": "I completely agree with you.",
+          "usage": "Dativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "widersprechen",
+          "meaning": "to disagree; contradict",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich möchte dir nicht widersprechen.",
+          "example_en": "I don't want to contradict you.",
+          "usage": "Dativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "der Vorschlag",
+          "meaning": "suggestion; proposal",
+          "type": "noun",
+          "grammar": "Plural: Vorschläge",
+          "example_de": "Dein Vorschlag klingt gut.",
+          "example_en": "Your suggestion sounds good.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-10-14",
       "title": "Day 2 · Opportunities & work",
       "words": [
