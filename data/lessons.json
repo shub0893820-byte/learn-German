@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-10-16",
+      "title": "Day 4 · Daily vocabulary",
+      "words": [
+        {
+          "word": "vorschlagen",
+          "meaning": "to suggest",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich schlage vor, früher loszufahren.",
+          "example_en": "I suggest leaving earlier.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Möglichkeit",
+          "meaning": "possibility; option",
+          "type": "noun",
+          "grammar": "Plural: Möglichkeiten",
+          "example_de": "Gibt es eine andere Möglichkeit?",
+          "example_en": "Is there another option?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "ermöglichen",
+          "meaning": "to make possible; enable",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Homeoffice ermöglicht mehr Flexibilität.",
+          "example_en": "Working from home enables more flexibility.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Veränderung",
+          "meaning": "change",
+          "type": "noun",
+          "grammar": "Plural: Veränderungen",
+          "example_de": "Die Veränderung war überraschend.",
+          "example_en": "The change was surprising.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich verändern",
+          "meaning": "to change",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Die Stadt hat sich stark verändert.",
+          "example_en": "The city has changed a lot.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Gewohnheit",
+          "meaning": "habit",
+          "type": "noun",
+          "grammar": "Plural: Gewohnheiten",
+          "example_de": "Lesen ist eine gute Gewohnheit.",
+          "example_en": "Reading is a good habit.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich bemühen",
+          "meaning": "to make an effort",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich bemühe mich, jeden Tag zu lernen.",
+          "example_en": "I make an effort to study every day.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Mühe",
+          "meaning": "effort; trouble",
+          "type": "noun",
+          "grammar": "Plural: Mühen",
+          "example_de": "Vielen Dank für deine Mühe.",
+          "example_en": "Thank you for your effort.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Unterstützung",
+          "meaning": "support",
+          "type": "noun",
+          "grammar": "Usually singular",
+          "example_de": "Danke für deine Unterstützung.",
+          "example_en": "Thanks for your support.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "unterstützen",
+          "meaning": "to support",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Meine Kollegen unterstützen mich.",
+          "example_en": "My colleagues support me.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-10-15",
       "title": "Day 3 · Daily vocabulary",
       "words": [
