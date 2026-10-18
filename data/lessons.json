@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-10-18",
+      "title": "Day 6 · Daily vocabulary",
+      "words": [
+        {
+          "word": "die Schwierigkeit",
+          "meaning": "difficulty",
+          "type": "noun",
+          "grammar": "Plural: Schwierigkeiten",
+          "example_de": "Am Anfang hatte ich einige Schwierigkeiten.",
+          "example_en": "At first, I had some difficulties.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "schwierig",
+          "meaning": "difficult",
+          "type": "adjective",
+          "grammar": "",
+          "example_de": "Die Aufgabe ist schwieriger als gedacht.",
+          "example_en": "The task is more difficult than expected.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Bedingung",
+          "meaning": "condition",
+          "type": "noun",
+          "grammar": "Plural: Bedingungen",
+          "example_de": "Unter diesen Bedingungen arbeite ich nicht.",
+          "example_en": "I won't work under these conditions.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Ausnahme",
+          "meaning": "exception",
+          "type": "noun",
+          "grammar": "Plural: Ausnahmen",
+          "example_de": "Heute mache ich eine Ausnahme.",
+          "example_en": "Today I'm making an exception.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "ausnahmsweise",
+          "meaning": "as an exception",
+          "type": "adverb",
+          "grammar": "",
+          "example_de": "Ausnahmsweise nehme ich heute ein Taxi.",
+          "example_en": "I'm taking a taxi today as an exception.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Erlaubnis",
+          "meaning": "permission",
+          "type": "noun",
+          "grammar": "Plural: Erlaubnisse",
+          "example_de": "Brauche ich dafür eine Erlaubnis?",
+          "example_en": "Do I need permission for that?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "erlauben",
+          "meaning": "to allow; permit",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Parken ist hier nicht erlaubt.",
+          "example_en": "Parking is not allowed here.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "verboten",
+          "meaning": "forbidden; prohibited",
+          "type": "adjective",
+          "grammar": "",
+          "example_de": "Das Fotografieren ist hier verboten.",
+          "example_en": "Taking photos is prohibited here.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Regelung",
+          "meaning": "regulation; arrangement",
+          "type": "noun",
+          "grammar": "Plural: Regelungen",
+          "example_de": "Die neue Regelung gilt ab Montag.",
+          "example_en": "The new regulation applies from Monday.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "gelten",
+          "meaning": "to apply; be valid",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Das Ticket gilt den ganzen Tag.",
+          "example_en": "The ticket is valid all day.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-10-17",
       "title": "Day 5 · Daily vocabulary",
       "words": [
