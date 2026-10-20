@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-10-20",
+      "title": "Day 8 · Daily vocabulary",
+      "words": [
+        {
+          "word": "absagen",
+          "meaning": "to cancel; decline",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich muss den Termin leider absagen.",
+          "example_en": "Unfortunately, I have to cancel the appointment.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Freizeit",
+          "meaning": "free time",
+          "type": "noun",
+          "grammar": "Usually singular",
+          "example_de": "In meiner Freizeit gehe ich gern wandern.",
+          "example_en": "In my free time, I like hiking.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich entspannen",
+          "meaning": "to relax",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Am Wochenende möchte ich mich entspannen.",
+          "example_en": "I want to relax at the weekend.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Erholung",
+          "meaning": "rest; recovery",
+          "type": "noun",
+          "grammar": "Usually singular",
+          "example_de": "Nach der Wanderung brauche ich etwas Erholung.",
+          "example_en": "I need some rest after the hike.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "anstrengend",
+          "meaning": "tiring; strenuous",
+          "type": "adjective",
+          "grammar": "",
+          "example_de": "Der Aufstieg war ziemlich anstrengend.",
+          "example_en": "The climb was quite strenuous.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich lohnen",
+          "meaning": "to be worth it",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Der Ausflug hat sich wirklich gelohnt.",
+          "example_en": "The trip was really worth it.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Aussicht",
+          "meaning": "view",
+          "type": "noun",
+          "grammar": "Plural: Aussichten",
+          "example_de": "Von hier hat man eine tolle Aussicht.",
+          "example_en": "You have a great view from here.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Strecke",
+          "meaning": "route; distance",
+          "type": "noun",
+          "grammar": "Plural: Strecken",
+          "example_de": "Die Strecke ist ungefähr zehn Kilometer lang.",
+          "example_en": "The route is about ten kilometres long.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Verbindung",
+          "meaning": "connection",
+          "type": "noun",
+          "grammar": "Plural: Verbindungen",
+          "example_de": "Welche Verbindung ist am schnellsten?",
+          "example_en": "Which connection is the fastest?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "umsteigen",
+          "meaning": "to change trains; transfer",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "In Hamburg müssen wir umsteigen.",
+          "example_en": "We have to change trains in Hamburg.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-10-19",
       "title": "Day 7 · Daily vocabulary",
       "words": [
