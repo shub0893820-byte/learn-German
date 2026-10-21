@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-10-21",
+      "title": "Day 9 · Daily vocabulary",
+      "words": [
+        {
+          "word": "die Haltestelle",
+          "meaning": "stop; station",
+          "type": "noun",
+          "grammar": "Plural: Haltestellen",
+          "example_de": "Wir treffen uns an der nächsten Haltestelle.",
+          "example_en": "We'll meet at the next stop.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "verpassen",
+          "meaning": "to miss",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich habe den letzten Bus verpasst.",
+          "example_en": "I missed the last bus.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "rechtzeitig",
+          "meaning": "in time; on time",
+          "type": "adjective/adverb",
+          "grammar": "",
+          "example_de": "Wir müssen rechtzeitig losgehen.",
+          "example_en": "We need to leave in time.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich erkundigen nach",
+          "meaning": "to enquire about",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich erkundige mich nach den Öffnungszeiten.",
+          "example_en": "I'll enquire about the opening hours.",
+          "usage": "nach + Dativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Auskunft",
+          "meaning": "information",
+          "type": "noun",
+          "grammar": "Plural: Auskünfte",
+          "example_de": "Können Sie mir eine Auskunft geben?",
+          "example_en": "Can you give me some information?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Anmeldung",
+          "meaning": "registration",
+          "type": "noun",
+          "grammar": "Plural: Anmeldungen",
+          "example_de": "Die Anmeldung dauert nur fünf Minuten.",
+          "example_en": "Registration takes only five minutes.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich anmelden",
+          "meaning": "to register; sign up",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich möchte mich für den Kurs anmelden.",
+          "example_en": "I would like to register for the course.",
+          "usage": "für + Akkusativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Teilnahme",
+          "meaning": "participation",
+          "type": "noun",
+          "grammar": "Usually singular",
+          "example_de": "Die Teilnahme am Kurs ist kostenlos.",
+          "example_en": "Participation in the course is free.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "teilnehmen an",
+          "meaning": "to participate in",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich nehme an einem Deutschkurs teil.",
+          "example_en": "I'm participating in a German course.",
+          "usage": "an + Dativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "aufmerksam",
+          "meaning": "attentive; thoughtful",
+          "type": "adjective",
+          "grammar": "",
+          "example_de": "Das war sehr aufmerksam von dir.",
+          "example_en": "That was very thoughtful of you.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-10-20",
       "title": "Day 8 · Daily vocabulary",
       "words": [
