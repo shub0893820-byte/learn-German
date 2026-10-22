@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-10-22",
+      "title": "Day 10 · Daily vocabulary",
+      "words": [
+        {
+          "word": "aufpassen auf",
+          "meaning": "to look after; pay attention to",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Kannst du kurz auf meinen Rucksack aufpassen?",
+          "example_en": "Can you watch my backpack for a moment?",
+          "usage": "auf + Akkusativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich verlassen auf",
+          "meaning": "to rely on",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich kann mich auf dich verlassen.",
+          "example_en": "I can rely on you.",
+          "usage": "auf + Akkusativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "vermutlich",
+          "meaning": "probably",
+          "type": "adverb",
+          "grammar": "",
+          "example_de": "Der Zug kommt vermutlich später.",
+          "example_en": "The train will probably arrive later.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "tatsächlich",
+          "meaning": "actually; in fact",
+          "type": "adverb",
+          "grammar": "",
+          "example_de": "Tatsächlich war es einfacher als gedacht.",
+          "example_en": "In fact, it was easier than expected.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "allerdings",
+          "meaning": "however",
+          "type": "adverb",
+          "grammar": "",
+          "example_de": "Die Wohnung ist schön, allerdings ziemlich teuer.",
+          "example_en": "The apartment is nice, however quite expensive.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "deshalb",
+          "meaning": "therefore; that's why",
+          "type": "adverb",
+          "grammar": "",
+          "example_de": "Ich bin müde, deshalb gehe ich früh ins Bett.",
+          "example_en": "I'm tired, so I'm going to bed early.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "obwohl",
+          "meaning": "although",
+          "type": "conjunction",
+          "grammar": "",
+          "example_de": "Obwohl es regnet, gehen wir spazieren.",
+          "example_en": "Although it's raining, we're going for a walk.",
+          "usage": "Verb at end",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sobald",
+          "meaning": "as soon as",
+          "type": "conjunction",
+          "grammar": "",
+          "example_de": "Ich rufe dich an, sobald ich angekommen bin.",
+          "example_en": "I'll call you as soon as I've arrived.",
+          "usage": "Verb at end",
+          "level": "A2–B1"
+        },
+        {
+          "word": "inzwischen",
+          "meaning": "meanwhile; by now",
+          "type": "adverb",
+          "grammar": "",
+          "example_de": "Inzwischen spreche ich etwas besser Deutsch.",
+          "example_en": "By now, I speak German a little better.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "bisher",
+          "meaning": "so far; until now",
+          "type": "adverb",
+          "grammar": "",
+          "example_de": "Bisher hat alles gut funktioniert.",
+          "example_en": "So far, everything has worked well.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-10-21",
       "title": "Day 9 · Daily vocabulary",
       "words": [
