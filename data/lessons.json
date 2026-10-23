@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-10-23",
+      "title": "Day 11 · Daily vocabulary",
+      "words": [
+        {
+          "word": "die Entwicklung",
+          "meaning": "development",
+          "type": "noun",
+          "grammar": "Plural: Entwicklungen",
+          "example_de": "Die Entwicklung geht in die richtige Richtung.",
+          "example_en": "The development is going in the right direction.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich entwickeln",
+          "meaning": "to develop",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Mein Deutsch entwickelt sich langsam weiter.",
+          "example_en": "My German is gradually improving.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Verbesserung",
+          "meaning": "improvement",
+          "type": "noun",
+          "grammar": "Plural: Verbesserungen",
+          "example_de": "Ich sehe eine deutliche Verbesserung.",
+          "example_en": "I see a clear improvement.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "verbessern",
+          "meaning": "to improve",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich möchte meine Aussprache verbessern.",
+          "example_en": "I want to improve my pronunciation.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "der Fortschritt",
+          "meaning": "progress",
+          "type": "noun",
+          "grammar": "Plural: Fortschritte",
+          "example_de": "Du machst große Fortschritte.",
+          "example_en": "You're making great progress.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Kenntnis",
+          "meaning": "knowledge; skill",
+          "type": "noun",
+          "grammar": "Plural: Kenntnisse",
+          "example_de": "Gute Englischkenntnisse sind hilfreich.",
+          "example_en": "Good English skills are helpful.",
+          "usage": "Often plural for language skills",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich konzentrieren auf",
+          "meaning": "to concentrate on",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich konzentriere mich auf die Aufgabe.",
+          "example_en": "I am concentrating on the task.",
+          "usage": "auf + Akkusativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Ablenkung",
+          "meaning": "distraction",
+          "type": "noun",
+          "grammar": "Plural: Ablenkungen",
+          "example_de": "Mein Handy ist oft eine Ablenkung.",
+          "example_en": "My phone is often a distraction.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Geduld",
+          "meaning": "patience",
+          "type": "noun",
+          "grammar": "Usually singular",
+          "example_de": "Beim Sprachenlernen braucht man Geduld.",
+          "example_en": "You need patience when learning languages.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "geduldig",
+          "meaning": "patient",
+          "type": "adjective",
+          "grammar": "",
+          "example_de": "Sei bitte ein bisschen geduldig.",
+          "example_en": "Please be a little patient.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-10-22",
       "title": "Day 10 · Daily vocabulary",
       "words": [
