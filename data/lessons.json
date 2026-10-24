@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-10-24",
+      "title": "Day 12 · Daily vocabulary",
+      "words": [
+        {
+          "word": "die Erwartung",
+          "meaning": "expectation",
+          "type": "noun",
+          "grammar": "Plural: Erwartungen",
+          "example_de": "Das Ergebnis hat meine Erwartungen übertroffen.",
+          "example_en": "The result exceeded my expectations.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "erwarten",
+          "meaning": "to expect",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Was erwartest du von dem Kurs?",
+          "example_en": "What do you expect from the course?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Überraschung",
+          "meaning": "surprise",
+          "type": "noun",
+          "grammar": "Plural: Überraschungen",
+          "example_de": "Das Geschenk war eine schöne Überraschung.",
+          "example_en": "The gift was a nice surprise.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich freuen auf",
+          "meaning": "to look forward to",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich freue mich auf das Wochenende.",
+          "example_en": "I'm looking forward to the weekend.",
+          "usage": "auf + Akkusativ; future",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich freuen über",
+          "meaning": "to be pleased about",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich freue mich über deine Nachricht.",
+          "example_en": "I'm happy about your message.",
+          "usage": "über + Akkusativ; existing event",
+          "level": "A2–B1"
+        },
+        {
+          "word": "enttäuscht",
+          "meaning": "disappointed",
+          "type": "adjective",
+          "grammar": "",
+          "example_de": "Ich war von dem Ergebnis enttäuscht.",
+          "example_en": "I was disappointed by the result.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Zufriedenheit",
+          "meaning": "satisfaction",
+          "type": "noun",
+          "grammar": "Usually singular",
+          "example_de": "Die Zufriedenheit der Kunden ist wichtig.",
+          "example_en": "Customer satisfaction is important.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "zufrieden sein mit",
+          "meaning": "to be satisfied with",
+          "type": "expression",
+          "grammar": "",
+          "example_de": "Ich bin mit meiner Entscheidung zufrieden.",
+          "example_en": "I'm satisfied with my decision.",
+          "usage": "mit + Dativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Entscheidung",
+          "meaning": "decision",
+          "type": "noun",
+          "grammar": "Plural: Entscheidungen",
+          "example_de": "Ich muss heute eine Entscheidung treffen.",
+          "example_en": "I have to make a decision today.",
+          "usage": "treffen + Akkusativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich entscheiden",
+          "meaning": "to decide",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich habe mich für den Zug entschieden.",
+          "example_en": "I decided to take the train.",
+          "usage": "für + Akkusativ",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-10-23",
       "title": "Day 11 · Daily vocabulary",
       "words": [
