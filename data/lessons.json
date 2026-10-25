@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-10-25",
+      "title": "Day 13 · Daily vocabulary",
+      "words": [
+        {
+          "word": "die Erfahrung",
+          "meaning": "experience",
+          "type": "noun",
+          "grammar": "Plural: Erfahrungen",
+          "example_de": "Das war eine interessante Erfahrung.",
+          "example_en": "That was an interesting experience.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "erfahren",
+          "meaning": "to find out; experience",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Wann hast du davon erfahren?",
+          "example_en": "When did you find out about it?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Umgebung",
+          "meaning": "surroundings; area",
+          "type": "noun",
+          "grammar": "Plural: Umgebungen",
+          "example_de": "In dieser Umgebung fühle ich mich wohl.",
+          "example_en": "I feel comfortable in this area.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich gewöhnen an",
+          "meaning": "to get used to",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich gewöhne mich an das Wetter.",
+          "example_en": "I am getting used to the weather.",
+          "usage": "an + Akkusativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Voraussetzung",
+          "meaning": "requirement; prerequisite",
+          "type": "noun",
+          "grammar": "Plural: Voraussetzungen",
+          "example_de": "Gute Deutschkenntnisse sind eine Voraussetzung.",
+          "example_en": "Good German skills are a requirement.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "zuverlässig",
+          "meaning": "reliable",
+          "type": "adjective",
+          "grammar": "",
+          "example_de": "Mein Kollege ist sehr zuverlässig.",
+          "example_en": "My colleague is very reliable.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Vereinbarung",
+          "meaning": "agreement; arrangement",
+          "type": "noun",
+          "grammar": "Plural: Vereinbarungen",
+          "example_de": "Wir haben eine Vereinbarung getroffen.",
+          "example_en": "We made an agreement.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "vereinbaren",
+          "meaning": "to arrange; agree",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Können wir einen Termin vereinbaren?",
+          "example_en": "Can we arrange an appointment?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Gelegenheit",
+          "meaning": "opportunity",
+          "type": "noun",
+          "grammar": "Plural: Gelegenheiten",
+          "example_de": "Das ist eine gute Gelegenheit, Deutsch zu üben.",
+          "example_en": "This is a good opportunity to practise German.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich bewerben um",
+          "meaning": "to apply for",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Sie bewirbt sich um eine neue Stelle.",
+          "example_en": "She is applying for a new position.",
+          "usage": "um + Akkusativ",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-10-24",
       "title": "Day 12 · Daily vocabulary",
       "words": [
