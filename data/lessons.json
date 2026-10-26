@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-10-26",
+      "title": "Day 14 · Daily vocabulary",
+      "words": [
+        {
+          "word": "die Bewerbung",
+          "meaning": "application",
+          "type": "noun",
+          "grammar": "Plural: Bewerbungen",
+          "example_de": "Ich habe meine Bewerbung abgeschickt.",
+          "example_en": "I sent my application.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Fähigkeit",
+          "meaning": "ability; skill",
+          "type": "noun",
+          "grammar": "Plural: Fähigkeiten",
+          "example_de": "Kommunikation ist eine wichtige Fähigkeit.",
+          "example_en": "Communication is an important skill.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Herausforderung",
+          "meaning": "challenge",
+          "type": "noun",
+          "grammar": "Plural: Herausforderungen",
+          "example_de": "Die neue Aufgabe ist eine Herausforderung.",
+          "example_en": "The new task is a challenge.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "bewältigen",
+          "meaning": "to manage; overcome",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Wir können diese Situation gemeinsam bewältigen.",
+          "example_en": "We can manage this situation together.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Rückmeldung",
+          "meaning": "feedback; response",
+          "type": "noun",
+          "grammar": "Plural: Rückmeldungen",
+          "example_de": "Danke für deine schnelle Rückmeldung.",
+          "example_en": "Thanks for your quick response.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "Rücksicht nehmen auf",
+          "meaning": "to be considerate of",
+          "type": "expression",
+          "grammar": "",
+          "example_de": "Bitte nimm Rücksicht auf die Nachbarn.",
+          "example_en": "Please be considerate of the neighbours.",
+          "usage": "auf + Akkusativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Verantwortung",
+          "meaning": "responsibility",
+          "type": "noun",
+          "grammar": "Usually singular",
+          "example_de": "Sie übernimmt die Verantwortung für das Projekt.",
+          "example_en": "She takes responsibility for the project.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "verantwortlich",
+          "meaning": "responsible",
+          "type": "adjective",
+          "grammar": "",
+          "example_de": "Wer ist dafür verantwortlich?",
+          "example_en": "Who is responsible for that?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Verspätung",
+          "meaning": "delay",
+          "type": "noun",
+          "grammar": "Plural: Verspätungen",
+          "example_de": "Wegen einer Verspätung kam ich zu spät.",
+          "example_en": "I arrived late because of a delay.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich verspäten",
+          "meaning": "to be delayed; late",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Der Bus hat sich verspätet.",
+          "example_en": "The bus was delayed.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-10-25",
       "title": "Day 13 · Daily vocabulary",
       "words": [
