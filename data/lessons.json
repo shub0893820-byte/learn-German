@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-10-31",
+      "title": "Day 19 · Daily vocabulary",
+      "words": [
+        {
+          "word": "fristgerecht",
+          "meaning": "within the deadline",
+          "type": "adjective/adverb",
+          "grammar": "",
+          "example_de": "Bitte reichen Sie die Unterlagen fristgerecht ein.",
+          "example_en": "Please submit the documents on time.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "einreichen",
+          "meaning": "to submit",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich muss den Antrag morgen einreichen.",
+          "example_en": "I have to submit the application tomorrow.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "der Antrag",
+          "meaning": "application; request",
+          "type": "noun",
+          "grammar": "Plural: Anträge",
+          "example_de": "Der Antrag wurde genehmigt.",
+          "example_en": "The application was approved.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "beantragen",
+          "meaning": "to apply for officially",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich möchte eine Aufenthaltserlaubnis beantragen.",
+          "example_en": "I would like to apply for a residence permit.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "genehmigen",
+          "meaning": "to approve",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Der Chef hat meinen Urlaub genehmigt.",
+          "example_en": "My manager approved my holiday.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "ablehnen",
+          "meaning": "to reject; decline",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Sie musste das Angebot ablehnen.",
+          "example_en": "She had to decline the offer.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Zusage",
+          "meaning": "acceptance; confirmation",
+          "type": "noun",
+          "grammar": "Plural: Zusagen",
+          "example_de": "Ich habe eine Zusage für die Wohnung bekommen.",
+          "example_en": "I received an acceptance for the apartment.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "zusagen",
+          "meaning": "to accept; confirm",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Kannst du bis morgen zusagen?",
+          "example_en": "Can you confirm by tomorrow?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "absagen",
+          "meaning": "to cancel; decline",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich muss den Termin leider absagen.",
+          "example_en": "Unfortunately, I have to cancel the appointment.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Freizeit",
+          "meaning": "free time",
+          "type": "noun",
+          "grammar": "Usually singular",
+          "example_de": "In meiner Freizeit gehe ich gern wandern.",
+          "example_en": "In my free time, I like hiking.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-10-30",
       "title": "Day 18 · Daily vocabulary",
       "words": [
