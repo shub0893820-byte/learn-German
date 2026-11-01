@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-11-01",
+      "title": "Day 20 · Daily vocabulary",
+      "words": [
+        {
+          "word": "sich entspannen",
+          "meaning": "to relax",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Am Wochenende möchte ich mich entspannen.",
+          "example_en": "I want to relax at the weekend.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Erholung",
+          "meaning": "rest; recovery",
+          "type": "noun",
+          "grammar": "Usually singular",
+          "example_de": "Nach der Wanderung brauche ich etwas Erholung.",
+          "example_en": "I need some rest after the hike.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "anstrengend",
+          "meaning": "tiring; strenuous",
+          "type": "adjective",
+          "grammar": "",
+          "example_de": "Der Aufstieg war ziemlich anstrengend.",
+          "example_en": "The climb was quite strenuous.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich lohnen",
+          "meaning": "to be worth it",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Der Ausflug hat sich wirklich gelohnt.",
+          "example_en": "The trip was really worth it.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Aussicht",
+          "meaning": "view",
+          "type": "noun",
+          "grammar": "Plural: Aussichten",
+          "example_de": "Von hier hat man eine tolle Aussicht.",
+          "example_en": "You have a great view from here.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Strecke",
+          "meaning": "route; distance",
+          "type": "noun",
+          "grammar": "Plural: Strecken",
+          "example_de": "Die Strecke ist ungefähr zehn Kilometer lang.",
+          "example_en": "The route is about ten kilometres long.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Verbindung",
+          "meaning": "connection",
+          "type": "noun",
+          "grammar": "Plural: Verbindungen",
+          "example_de": "Welche Verbindung ist am schnellsten?",
+          "example_en": "Which connection is the fastest?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "umsteigen",
+          "meaning": "to change trains; transfer",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "In Hamburg müssen wir umsteigen.",
+          "example_en": "We have to change trains in Hamburg.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Haltestelle",
+          "meaning": "stop; station",
+          "type": "noun",
+          "grammar": "Plural: Haltestellen",
+          "example_de": "Wir treffen uns an der nächsten Haltestelle.",
+          "example_en": "We'll meet at the next stop.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "verpassen",
+          "meaning": "to miss",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich habe den letzten Bus verpasst.",
+          "example_en": "I missed the last bus.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-10-31",
       "title": "Day 19 · Daily vocabulary",
       "words": [
