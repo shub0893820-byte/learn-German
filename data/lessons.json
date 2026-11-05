@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-11-05",
+      "title": "Day 24 · Daily vocabulary",
+      "words": [
+        {
+          "word": "die Überraschung",
+          "meaning": "surprise",
+          "type": "noun",
+          "grammar": "Plural: Überraschungen",
+          "example_de": "Das Geschenk war eine schöne Überraschung.",
+          "example_en": "The gift was a nice surprise.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich freuen auf",
+          "meaning": "to look forward to",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich freue mich auf das Wochenende.",
+          "example_en": "I'm looking forward to the weekend.",
+          "usage": "auf + Akkusativ; future",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich freuen über",
+          "meaning": "to be pleased about",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich freue mich über deine Nachricht.",
+          "example_en": "I'm happy about your message.",
+          "usage": "über + Akkusativ; existing event",
+          "level": "A2–B1"
+        },
+        {
+          "word": "enttäuscht",
+          "meaning": "disappointed",
+          "type": "adjective",
+          "grammar": "",
+          "example_de": "Ich war von dem Ergebnis enttäuscht.",
+          "example_en": "I was disappointed by the result.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Zufriedenheit",
+          "meaning": "satisfaction",
+          "type": "noun",
+          "grammar": "Usually singular",
+          "example_de": "Die Zufriedenheit der Kunden ist wichtig.",
+          "example_en": "Customer satisfaction is important.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "zufrieden sein mit",
+          "meaning": "to be satisfied with",
+          "type": "expression",
+          "grammar": "",
+          "example_de": "Ich bin mit meiner Entscheidung zufrieden.",
+          "example_en": "I'm satisfied with my decision.",
+          "usage": "mit + Dativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Entscheidung",
+          "meaning": "decision",
+          "type": "noun",
+          "grammar": "Plural: Entscheidungen",
+          "example_de": "Ich muss heute eine Entscheidung treffen.",
+          "example_en": "I have to make a decision today.",
+          "usage": "treffen + Akkusativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich entscheiden",
+          "meaning": "to decide",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich habe mich für den Zug entschieden.",
+          "example_en": "I decided to take the train.",
+          "usage": "für + Akkusativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Erfahrung",
+          "meaning": "experience",
+          "type": "noun",
+          "grammar": "Plural: Erfahrungen",
+          "example_de": "Das war eine interessante Erfahrung.",
+          "example_en": "That was an interesting experience.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "erfahren",
+          "meaning": "to find out; experience",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Wann hast du davon erfahren?",
+          "example_en": "When did you find out about it?",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-11-04",
       "title": "Day 23 · Daily vocabulary",
       "words": [
