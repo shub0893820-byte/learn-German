@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-11-08",
+      "title": "Day 27 · Daily vocabulary",
+      "words": [
+        {
+          "word": "Bescheid geben",
+          "meaning": "to let someone know",
+          "type": "expression",
+          "grammar": "",
+          "example_de": "Gib mir bitte Bescheid, wenn du da bist.",
+          "example_en": "Please let me know when you're there.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Absicht",
+          "meaning": "intention",
+          "type": "noun",
+          "grammar": "Plural: Absichten",
+          "example_de": "Das war nicht meine Absicht.",
+          "example_en": "That wasn't my intention.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Meinung",
+          "meaning": "opinion",
+          "type": "noun",
+          "grammar": "Plural: Meinungen",
+          "example_de": "Meiner Meinung nach ist das eine gute Idee.",
+          "example_en": "In my opinion, that's a good idea.",
+          "usage": "meiner Meinung nach",
+          "level": "A2–B1"
+        },
+        {
+          "word": "zustimmen",
+          "meaning": "to agree",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich stimme dir vollkommen zu.",
+          "example_en": "I completely agree with you.",
+          "usage": "Dativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "widersprechen",
+          "meaning": "to disagree; contradict",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich möchte dir nicht widersprechen.",
+          "example_en": "I don't want to contradict you.",
+          "usage": "Dativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "der Vorschlag",
+          "meaning": "suggestion; proposal",
+          "type": "noun",
+          "grammar": "Plural: Vorschläge",
+          "example_de": "Dein Vorschlag klingt gut.",
+          "example_en": "Your suggestion sounds good.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "vorschlagen",
+          "meaning": "to suggest",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich schlage vor, früher loszufahren.",
+          "example_en": "I suggest leaving earlier.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Möglichkeit",
+          "meaning": "possibility; option",
+          "type": "noun",
+          "grammar": "Plural: Möglichkeiten",
+          "example_de": "Gibt es eine andere Möglichkeit?",
+          "example_en": "Is there another option?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "ermöglichen",
+          "meaning": "to make possible; enable",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Homeoffice ermöglicht mehr Flexibilität.",
+          "example_en": "Working from home enables more flexibility.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Veränderung",
+          "meaning": "change",
+          "type": "noun",
+          "grammar": "Plural: Veränderungen",
+          "example_de": "Die Veränderung war überraschend.",
+          "example_en": "The change was surprising.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-11-07",
       "title": "Day 26 · Daily vocabulary",
       "words": [
