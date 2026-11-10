@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-11-10",
+      "title": "Day 29 · Daily vocabulary",
+      "words": [
+        {
+          "word": "die Ursache",
+          "meaning": "cause",
+          "type": "noun",
+          "grammar": "Plural: Ursachen",
+          "example_de": "Wir müssen die Ursache finden.",
+          "example_en": "We have to find the cause.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "verursachen",
+          "meaning": "to cause",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Der Sturm hat viele Probleme verursacht.",
+          "example_en": "The storm caused many problems.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Auswirkung",
+          "meaning": "effect; impact",
+          "type": "noun",
+          "grammar": "Plural: Auswirkungen",
+          "example_de": "Die Entscheidung hat große Auswirkungen.",
+          "example_en": "The decision has a big impact.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich auswirken auf",
+          "meaning": "to affect; impact",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Das wirkt sich auf meine Arbeit aus.",
+          "example_en": "That affects my work.",
+          "usage": "auf + Akkusativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Lösung",
+          "meaning": "solution",
+          "type": "noun",
+          "grammar": "Plural: Lösungen",
+          "example_de": "Wir suchen gemeinsam nach einer Lösung.",
+          "example_en": "We are looking for a solution together.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "lösen",
+          "meaning": "to solve",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Kannst du dieses Problem lösen?",
+          "example_en": "Can you solve this problem?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Schwierigkeit",
+          "meaning": "difficulty",
+          "type": "noun",
+          "grammar": "Plural: Schwierigkeiten",
+          "example_de": "Am Anfang hatte ich einige Schwierigkeiten.",
+          "example_en": "At first, I had some difficulties.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "schwierig",
+          "meaning": "difficult",
+          "type": "adjective",
+          "grammar": "",
+          "example_de": "Die Aufgabe ist schwieriger als gedacht.",
+          "example_en": "The task is more difficult than expected.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Bedingung",
+          "meaning": "condition",
+          "type": "noun",
+          "grammar": "Plural: Bedingungen",
+          "example_de": "Unter diesen Bedingungen arbeite ich nicht.",
+          "example_en": "I won't work under these conditions.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Ausnahme",
+          "meaning": "exception",
+          "type": "noun",
+          "grammar": "Plural: Ausnahmen",
+          "example_de": "Heute mache ich eine Ausnahme.",
+          "example_en": "Today I'm making an exception.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-11-09",
       "title": "Day 28 · Daily vocabulary",
       "words": [
