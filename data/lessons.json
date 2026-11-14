@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-11-14",
+      "title": "Day 33 · Daily vocabulary",
+      "words": [
+        {
+          "word": "die Auskunft",
+          "meaning": "information",
+          "type": "noun",
+          "grammar": "Plural: Auskünfte",
+          "example_de": "Können Sie mir eine Auskunft geben?",
+          "example_en": "Can you give me some information?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Anmeldung",
+          "meaning": "registration",
+          "type": "noun",
+          "grammar": "Plural: Anmeldungen",
+          "example_de": "Die Anmeldung dauert nur fünf Minuten.",
+          "example_en": "Registration takes only five minutes.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich anmelden",
+          "meaning": "to register; sign up",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich möchte mich für den Kurs anmelden.",
+          "example_en": "I would like to register for the course.",
+          "usage": "für + Akkusativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Teilnahme",
+          "meaning": "participation",
+          "type": "noun",
+          "grammar": "Usually singular",
+          "example_de": "Die Teilnahme am Kurs ist kostenlos.",
+          "example_en": "Participation in the course is free.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "teilnehmen an",
+          "meaning": "to participate in",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich nehme an einem Deutschkurs teil.",
+          "example_en": "I'm participating in a German course.",
+          "usage": "an + Dativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "aufmerksam",
+          "meaning": "attentive; thoughtful",
+          "type": "adjective",
+          "grammar": "",
+          "example_de": "Das war sehr aufmerksam von dir.",
+          "example_en": "That was very thoughtful of you.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "aufpassen auf",
+          "meaning": "to look after; pay attention to",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Kannst du kurz auf meinen Rucksack aufpassen?",
+          "example_en": "Can you watch my backpack for a moment?",
+          "usage": "auf + Akkusativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich verlassen auf",
+          "meaning": "to rely on",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich kann mich auf dich verlassen.",
+          "example_en": "I can rely on you.",
+          "usage": "auf + Akkusativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "vermutlich",
+          "meaning": "probably",
+          "type": "adverb",
+          "grammar": "",
+          "example_de": "Der Zug kommt vermutlich später.",
+          "example_en": "The train will probably arrive later.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "tatsächlich",
+          "meaning": "actually; in fact",
+          "type": "adverb",
+          "grammar": "",
+          "example_de": "Tatsächlich war es einfacher als gedacht.",
+          "example_en": "In fact, it was easier than expected.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-11-13",
       "title": "Day 32 · Daily vocabulary",
       "words": [
