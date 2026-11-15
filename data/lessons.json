@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-11-15",
+      "title": "Day 34 · Daily vocabulary",
+      "words": [
+        {
+          "word": "allerdings",
+          "meaning": "however",
+          "type": "adverb",
+          "grammar": "",
+          "example_de": "Die Wohnung ist schön, allerdings ziemlich teuer.",
+          "example_en": "The apartment is nice, however quite expensive.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "deshalb",
+          "meaning": "therefore; that's why",
+          "type": "adverb",
+          "grammar": "",
+          "example_de": "Ich bin müde, deshalb gehe ich früh ins Bett.",
+          "example_en": "I'm tired, so I'm going to bed early.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "obwohl",
+          "meaning": "although",
+          "type": "conjunction",
+          "grammar": "",
+          "example_de": "Obwohl es regnet, gehen wir spazieren.",
+          "example_en": "Although it's raining, we're going for a walk.",
+          "usage": "Verb at end",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sobald",
+          "meaning": "as soon as",
+          "type": "conjunction",
+          "grammar": "",
+          "example_de": "Ich rufe dich an, sobald ich angekommen bin.",
+          "example_en": "I'll call you as soon as I've arrived.",
+          "usage": "Verb at end",
+          "level": "A2–B1"
+        },
+        {
+          "word": "inzwischen",
+          "meaning": "meanwhile; by now",
+          "type": "adverb",
+          "grammar": "",
+          "example_de": "Inzwischen spreche ich etwas besser Deutsch.",
+          "example_en": "By now, I speak German a little better.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "bisher",
+          "meaning": "so far; until now",
+          "type": "adverb",
+          "grammar": "",
+          "example_de": "Bisher hat alles gut funktioniert.",
+          "example_en": "So far, everything has worked well.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Entwicklung",
+          "meaning": "development",
+          "type": "noun",
+          "grammar": "Plural: Entwicklungen",
+          "example_de": "Die Entwicklung geht in die richtige Richtung.",
+          "example_en": "The development is going in the right direction.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich entwickeln",
+          "meaning": "to develop",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Mein Deutsch entwickelt sich langsam weiter.",
+          "example_en": "My German is gradually improving.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Verbesserung",
+          "meaning": "improvement",
+          "type": "noun",
+          "grammar": "Plural: Verbesserungen",
+          "example_de": "Ich sehe eine deutliche Verbesserung.",
+          "example_en": "I see a clear improvement.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "verbessern",
+          "meaning": "to improve",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich möchte meine Aussprache verbessern.",
+          "example_en": "I want to improve my pronunciation.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-11-14",
       "title": "Day 33 · Daily vocabulary",
       "words": [
