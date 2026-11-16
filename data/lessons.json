@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-11-16",
+      "title": "Day 35 · Daily vocabulary",
+      "words": [
+        {
+          "word": "der Fortschritt",
+          "meaning": "progress",
+          "type": "noun",
+          "grammar": "Plural: Fortschritte",
+          "example_de": "Du machst große Fortschritte.",
+          "example_en": "You're making great progress.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Kenntnis",
+          "meaning": "knowledge; skill",
+          "type": "noun",
+          "grammar": "Plural: Kenntnisse",
+          "example_de": "Gute Englischkenntnisse sind hilfreich.",
+          "example_en": "Good English skills are helpful.",
+          "usage": "Often plural for language skills",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich konzentrieren auf",
+          "meaning": "to concentrate on",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich konzentriere mich auf die Aufgabe.",
+          "example_en": "I am concentrating on the task.",
+          "usage": "auf + Akkusativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Ablenkung",
+          "meaning": "distraction",
+          "type": "noun",
+          "grammar": "Plural: Ablenkungen",
+          "example_de": "Mein Handy ist oft eine Ablenkung.",
+          "example_en": "My phone is often a distraction.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Geduld",
+          "meaning": "patience",
+          "type": "noun",
+          "grammar": "Usually singular",
+          "example_de": "Beim Sprachenlernen braucht man Geduld.",
+          "example_en": "You need patience when learning languages.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "geduldig",
+          "meaning": "patient",
+          "type": "adjective",
+          "grammar": "",
+          "example_de": "Sei bitte ein bisschen geduldig.",
+          "example_en": "Please be a little patient.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Erwartung",
+          "meaning": "expectation",
+          "type": "noun",
+          "grammar": "Plural: Erwartungen",
+          "example_de": "Das Ergebnis hat meine Erwartungen übertroffen.",
+          "example_en": "The result exceeded my expectations.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "erwarten",
+          "meaning": "to expect",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Was erwartest du von dem Kurs?",
+          "example_en": "What do you expect from the course?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Überraschung",
+          "meaning": "surprise",
+          "type": "noun",
+          "grammar": "Plural: Überraschungen",
+          "example_de": "Das Geschenk war eine schöne Überraschung.",
+          "example_en": "The gift was a nice surprise.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich freuen auf",
+          "meaning": "to look forward to",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich freue mich auf das Wochenende.",
+          "example_en": "I'm looking forward to the weekend.",
+          "usage": "auf + Akkusativ; future",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-11-15",
       "title": "Day 34 · Daily vocabulary",
       "words": [
