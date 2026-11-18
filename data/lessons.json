@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-11-18",
+      "title": "Day 37 · Daily vocabulary",
+      "words": [
+        {
+          "word": "die Voraussetzung",
+          "meaning": "requirement; prerequisite",
+          "type": "noun",
+          "grammar": "Plural: Voraussetzungen",
+          "example_de": "Gute Deutschkenntnisse sind eine Voraussetzung.",
+          "example_en": "Good German skills are a requirement.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "zuverlässig",
+          "meaning": "reliable",
+          "type": "adjective",
+          "grammar": "",
+          "example_de": "Mein Kollege ist sehr zuverlässig.",
+          "example_en": "My colleague is very reliable.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Vereinbarung",
+          "meaning": "agreement; arrangement",
+          "type": "noun",
+          "grammar": "Plural: Vereinbarungen",
+          "example_de": "Wir haben eine Vereinbarung getroffen.",
+          "example_en": "We made an agreement.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "vereinbaren",
+          "meaning": "to arrange; agree",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Können wir einen Termin vereinbaren?",
+          "example_en": "Can we arrange an appointment?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Gelegenheit",
+          "meaning": "opportunity",
+          "type": "noun",
+          "grammar": "Plural: Gelegenheiten",
+          "example_de": "Das ist eine gute Gelegenheit, Deutsch zu üben.",
+          "example_en": "This is a good opportunity to practise German.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich bewerben um",
+          "meaning": "to apply for",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Sie bewirbt sich um eine neue Stelle.",
+          "example_en": "She is applying for a new position.",
+          "usage": "um + Akkusativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Bewerbung",
+          "meaning": "application",
+          "type": "noun",
+          "grammar": "Plural: Bewerbungen",
+          "example_de": "Ich habe meine Bewerbung abgeschickt.",
+          "example_en": "I sent my application.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Fähigkeit",
+          "meaning": "ability; skill",
+          "type": "noun",
+          "grammar": "Plural: Fähigkeiten",
+          "example_de": "Kommunikation ist eine wichtige Fähigkeit.",
+          "example_en": "Communication is an important skill.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Herausforderung",
+          "meaning": "challenge",
+          "type": "noun",
+          "grammar": "Plural: Herausforderungen",
+          "example_de": "Die neue Aufgabe ist eine Herausforderung.",
+          "example_en": "The new task is a challenge.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "bewältigen",
+          "meaning": "to manage; overcome",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Wir können diese Situation gemeinsam bewältigen.",
+          "example_en": "We can manage this situation together.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-11-17",
       "title": "Day 36 · Daily vocabulary",
       "words": [
