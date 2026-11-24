@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-11-24",
+      "title": "Day 43 · Daily vocabulary",
+      "words": [
+        {
+          "word": "genehmigen",
+          "meaning": "to approve",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Der Chef hat meinen Urlaub genehmigt.",
+          "example_en": "My manager approved my holiday.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "ablehnen",
+          "meaning": "to reject; decline",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Sie musste das Angebot ablehnen.",
+          "example_en": "She had to decline the offer.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Zusage",
+          "meaning": "acceptance; confirmation",
+          "type": "noun",
+          "grammar": "Plural: Zusagen",
+          "example_de": "Ich habe eine Zusage für die Wohnung bekommen.",
+          "example_en": "I received an acceptance for the apartment.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "zusagen",
+          "meaning": "to accept; confirm",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Kannst du bis morgen zusagen?",
+          "example_en": "Can you confirm by tomorrow?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "absagen",
+          "meaning": "to cancel; decline",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich muss den Termin leider absagen.",
+          "example_en": "Unfortunately, I have to cancel the appointment.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Freizeit",
+          "meaning": "free time",
+          "type": "noun",
+          "grammar": "Usually singular",
+          "example_de": "In meiner Freizeit gehe ich gern wandern.",
+          "example_en": "In my free time, I like hiking.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich entspannen",
+          "meaning": "to relax",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Am Wochenende möchte ich mich entspannen.",
+          "example_en": "I want to relax at the weekend.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Erholung",
+          "meaning": "rest; recovery",
+          "type": "noun",
+          "grammar": "Usually singular",
+          "example_de": "Nach der Wanderung brauche ich etwas Erholung.",
+          "example_en": "I need some rest after the hike.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "anstrengend",
+          "meaning": "tiring; strenuous",
+          "type": "adjective",
+          "grammar": "",
+          "example_de": "Der Aufstieg war ziemlich anstrengend.",
+          "example_en": "The climb was quite strenuous.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich lohnen",
+          "meaning": "to be worth it",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Der Ausflug hat sich wirklich gelohnt.",
+          "example_en": "The trip was really worth it.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-11-23",
       "title": "Day 42 · Daily vocabulary",
       "words": [
