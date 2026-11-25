@@ -1,6 +1,112 @@
 {
   "lessons": [
     {
+      "date": "2026-11-25",
+      "title": "Day 44 · Daily vocabulary",
+      "words": [
+        {
+          "word": "die Aussicht",
+          "meaning": "view",
+          "type": "noun",
+          "grammar": "Plural: Aussichten",
+          "example_de": "Von hier hat man eine tolle Aussicht.",
+          "example_en": "You have a great view from here.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Strecke",
+          "meaning": "route; distance",
+          "type": "noun",
+          "grammar": "Plural: Strecken",
+          "example_de": "Die Strecke ist ungefähr zehn Kilometer lang.",
+          "example_en": "The route is about ten kilometres long.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Verbindung",
+          "meaning": "connection",
+          "type": "noun",
+          "grammar": "Plural: Verbindungen",
+          "example_de": "Welche Verbindung ist am schnellsten?",
+          "example_en": "Which connection is the fastest?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "umsteigen",
+          "meaning": "to change trains; transfer",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "In Hamburg müssen wir umsteigen.",
+          "example_en": "We have to change trains in Hamburg.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Haltestelle",
+          "meaning": "stop; station",
+          "type": "noun",
+          "grammar": "Plural: Haltestellen",
+          "example_de": "Wir treffen uns an der nächsten Haltestelle.",
+          "example_en": "We'll meet at the next stop.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "verpassen",
+          "meaning": "to miss",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich habe den letzten Bus verpasst.",
+          "example_en": "I missed the last bus.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "rechtzeitig",
+          "meaning": "in time; on time",
+          "type": "adjective/adverb",
+          "grammar": "",
+          "example_de": "Wir müssen rechtzeitig losgehen.",
+          "example_en": "We need to leave in time.",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "sich erkundigen nach",
+          "meaning": "to enquire about",
+          "type": "verb",
+          "grammar": "",
+          "example_de": "Ich erkundige mich nach den Öffnungszeiten.",
+          "example_en": "I'll enquire about the opening hours.",
+          "usage": "nach + Dativ",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Auskunft",
+          "meaning": "information",
+          "type": "noun",
+          "grammar": "Plural: Auskünfte",
+          "example_de": "Können Sie mir eine Auskunft geben?",
+          "example_en": "Can you give me some information?",
+          "usage": "",
+          "level": "A2–B1"
+        },
+        {
+          "word": "die Anmeldung",
+          "meaning": "registration",
+          "type": "noun",
+          "grammar": "Plural: Anmeldungen",
+          "example_de": "Die Anmeldung dauert nur fünf Minuten.",
+          "example_en": "Registration takes only five minutes.",
+          "usage": "",
+          "level": "A2–B1"
+        }
+      ]
+    },
+    {
       "date": "2026-11-24",
       "title": "Day 43 · Daily vocabulary",
       "words": [
